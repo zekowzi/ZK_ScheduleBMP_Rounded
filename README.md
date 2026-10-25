@@ -8,4 +8,4 @@ Tout simple: glisser le Schedule.BMP dans votre dossier OMSI 2/Textures
 - Random IA: **Vibegraphism**
 - Mon cerveau: **Prompts pour vibegraph**
 
-***Mod proposé par ZeKowzi et propulsé par Gemini, tout droits réservés, 2026***
+***Mod proposé par ZeKowzi, tout droits réservés à Gemini (et un peu moi), 2026***
